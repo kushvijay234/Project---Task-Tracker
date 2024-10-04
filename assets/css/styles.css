@@ -1,3 +1,9 @@
+body{
+    margin: 0px !important;
+}
+p{
+    text-align: justify;
+}
 .header-row {
     display: flex;
     justify-content: center !important;
