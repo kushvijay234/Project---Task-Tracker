@@ -16,3 +16,11 @@
     color: black;
     border-color: black;
 }
+
+.row{
+    width: 100%;
+}
+
+.row.footer-row {
+    margin: 2%;
+}
