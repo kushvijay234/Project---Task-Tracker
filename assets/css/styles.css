@@ -6,3 +6,7 @@
 .header-row h2 {
     text-align: center;
 }
+
+.row.my-5 {
+    width: 100%;
+}
